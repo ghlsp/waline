@@ -5,8 +5,3 @@ const Application = require('@waline/vercel');
      // do what ever you want after save comment 
    }, 
  });
- Waline.init({
-   el: '#waline',
-   // ...
-   reaction: true, // 开启反应
- });
