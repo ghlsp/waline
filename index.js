@@ -1,4 +1,4 @@
-const Waline.init = require('@waline/vercel'); 
+const Waline = require('@waline/vercel'); 
   
  Waline.init({
   el: '#waline',
