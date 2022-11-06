@@ -10,7 +10,7 @@ const Waline= require('@waline/vercel');
      '单号' 
    ], 
    disallowIPList: [ 
-     '220.173.125.83', 
+     '220.173.125.84', 
      '222.83.150.92' 
    ], 
    secureDomains: [ 
